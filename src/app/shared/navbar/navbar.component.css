@@ -1,0 +1,13 @@
+/* @font-face {
+    font-family: GIOVANNI;
+    src: url('../../../assets/font/GIOVANNI.ttf') format("truetype");
+} */
+.spacer{
+    flex: 1 1 auto;
+}
+nav{
+    background-color: #000000 !important;
+    
+    top: 0; 
+    z-index: 1000;
+}
